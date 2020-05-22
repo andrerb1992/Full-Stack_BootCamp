@@ -1,0 +1,81 @@
+body {
+  padding: 10px;
+}
+h1 {
+  text-align: center;
+  font-size: 2rem;
+  font-weight: bold;
+  color: black;
+}
+
+h2 {
+  text-align: left;
+  font-size: 2rem;
+  font-weight: bold;
+  color: black;
+}
+
+h3 {
+  text-align: left;
+  font-size: 2rem;
+  font-weight: bold;
+  color: black;
+}
+
+h4 {
+  text-align: left;
+  font-size: 1rem;
+  font-weight: bold;
+  color: black;
+}
+
+h5 {
+  text-align: left;
+  font-size: 1rem;
+  font-weight: bold;
+  color: black;
+}
+
+.dados-pessoais {
+  margin: 10px;
+  display: flex;
+  flex-direction: row;
+  align-items: center;
+}
+
+#dados {
+  margin-left: 30px;
+  list-style-type: disc;
+}
+
+img {
+  border-radius: 50%;
+  margin-right: 50px;
+}
+
+.personal-data {
+  display: flex;
+  flex-direction: row;
+  align-items: center;
+  justify-content: flex-start;
+}
+table {
+  text-align: center;
+}
+
+table,
+tr,
+td,
+th {
+  border: 1px solid gray;
+  padding: 5px;
+}
+th {
+  font-weight: bold;
+  text-align: center;
+}
+
+.emphasis {
+  font-weight: bold;
+  color: green;
+}

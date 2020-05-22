@@ -1,0 +1,33 @@
+body {
+  padding: 10px;
+}
+
+ul,
+li {
+  list-style-type: none;
+}
+.clickable {
+  cursor: pointer;
+}
+
+.deleteButton {
+  color: white;
+  font-weight: bold;
+  background-color: darkred;
+  margin-right: 10px;
+  border-radius: 50%;
+}
+
+h1 {
+  text-align: left;
+  font-size: 2rem;
+  font-weight: bold;
+  color: black;
+}
+
+h2 {
+  text-align: left;
+  font-size: 2rem;
+  font-weight: bold;
+  color: black;
+}
